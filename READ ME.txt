@@ -1,0 +1,7 @@
+# Commands
+
+
+> Open the CMD in task folder first 
+> Then run this command to start the website on localhost 
+
+command : npm run dev 
